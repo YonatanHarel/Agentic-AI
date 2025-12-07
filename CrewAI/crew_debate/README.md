@@ -1,3 +1,23 @@
+# Debate Project
+In this project we have 2 kinds of agents and 3 kinds of tasks.
+User responsible to giving the debate argument (aka <i>motion</i>)
+
+## Agents
+### debater
+This agent responsible for creating a clear argument either in favor of or against the <i>motion</i>.
+
+### judge
+This agent responsible to take the debater agents arguments and decide which one is the winner based on the arguments.
+
+## Tasks
+Tasks arethe agents' operation.
+Here for example, we have 2 tasks for debater agents - propose and oppose - which need to come up with argument in favor or against the <i>motion</i>.
+The last task is the judgment task which is performed by the judge agent.
+
+
+</br></br></br></br></br></br></br>
+
+
 # CrewDebate Crew
 
 Welcome to the CrewDebate Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
