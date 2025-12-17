@@ -5,17 +5,17 @@ Agentic AI mini projects and demos
 
 ## 🧩 Use Case Table
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
+    <col style="width:15%">
+    <col style="width:65%">
     <col style="width:20%">
-    <col style="width:55%">
-    <col style="width:25%">
   </colgroup>
   <thead>
     <tr>
-      <th>Use Case</th>
-      <th>Description</th>
-      <th>Link</th>
+      <th style="text-align:center; padding:6px 10px;">Use Case</th>
+      <th style="text-align:center; padding:6px 10px;">Description</th>
+      <th style="text-align:center; padding:6px 10px;">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -46,17 +46,17 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **CrewAI**
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
+    <col style="width:15%">
+    <col style="width:65%">
     <col style="width:20%">
-    <col style="width:55%">
-    <col style="width:25%">
   </colgroup>
   <thead>
     <tr>
-      <th>Use Case</th>
-      <th>Description</th>
-      <th>GitHub</th>
+      <th style="text-align:center; padding:6px 10px;">Use Case</th>
+      <th style="text-align:center; padding:6px 10px;">Description</th>
+      <th style="text-align:center; padding:6px 10px;">GitHub</th>
     </tr>
   </thead>
   <tbody>
@@ -82,17 +82,17 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **Langgraph**
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
+    <col style="width:15%">
+    <col style="width:65%">
     <col style="width:20%">
-    <col style="width:55%">
-    <col style="width:25%">
   </colgroup>
   <thead>
     <tr>
-      <th>Use Case</th>
-      <th>Description</th>
-      <th>Notebook</th>
+      <th style="text-align:center; padding:6px 10px;">Use Case</th>
+      <th style="text-align:center; padding:6px 10px;">Description</th>
+      <th style="text-align:center; padding:6px 10px;">Notebook</th>
     </tr>
   </thead>
   <tbody>
