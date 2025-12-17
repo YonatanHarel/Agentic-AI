@@ -4,7 +4,7 @@ from crewai_tools import SerperDevTool
 
 @CrewBase
 class FinancialResearcher():
-    """FinancialResearcher crew"""
+    """financial_researcher crew"""
     agents_config = 'config/agents.yaml'
     tasks_config = 'config/tasks.yaml'
 
