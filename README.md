@@ -5,7 +5,7 @@ Agentic AI mini projects and demos
 
 ## 🧩 Use Case Table
 
-<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
+<table style="width:100%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
     <col style="width:15%">
     <col style="width:65%">
@@ -46,7 +46,7 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **CrewAI**
 
-<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
+<table style="width:100%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
     <col style="width:15%">
     <col style="width:65%">
@@ -56,7 +56,7 @@ Agentic AI mini projects and demos
     <tr>
       <th style="text-align:center; padding:6px 10px;">Use Case</th>
       <th style="text-align:center; padding:6px 10px;">Description</th>
-      <th style="text-align:center; padding:6px 10px;">GitHub</th>
+      <th style="text-align:center; padding:6px 10px;">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -82,7 +82,7 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **Langgraph**
 
-<table style="width:50%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
+<table style="width:100%; table-layout:fixed;display:table; border-collapse:collapse; margin:0;">
   <colgroup>
     <col style="width:15%">
     <col style="width:65%">
@@ -92,7 +92,7 @@ Agentic AI mini projects and demos
     <tr>
       <th style="text-align:center; padding:6px 10px;">Use Case</th>
       <th style="text-align:center; padding:6px 10px;">Description</th>
-      <th style="text-align:center; padding:6px 10px;">Notebook</th>
+      <th style="text-align:center; padding:6px 10px;">Link</th>
     </tr>
   </thead>
   <tbody>
