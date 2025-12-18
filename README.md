@@ -25,8 +25,8 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **Langgraph**
 
-| Use Case <img width="75" height="1" src="https://github.com/user-attachments/assets/dummy-pixel">               | Description| Link                                                                                               |
-|:----------------------|:-----------|:---------------------------------------------------------------------------------------------------|
-| TBD                   | TBD        | [![AI Agent](https://img.shields.io/static/v1?label=AI+Agent&message=Python&color=%23244cd1)](TBD) |
+| Use Case| Description  | Link                                                                                               |
+|:--------|:-------------|:---------------------------------------------------------------------------------------------------|
+| TBD     | TBD          | [![AI Agent](https://img.shields.io/static/v1?label=AI+Agent&message=Python&color=%23244cd1)](TBD) |
 
 ---
