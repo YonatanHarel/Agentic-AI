@@ -323,4 +323,4 @@ class TestAccount(unittest.TestCase):
     def test_sell_all_shares(self):
         """Test selling all shares removes holding"""
         account = Account('ACC001', 1000.0)
-        account.buy_shares('AAPL', 2
+        account.buy_shares('AAPL', 2)
