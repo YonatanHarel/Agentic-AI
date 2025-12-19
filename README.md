@@ -15,12 +15,13 @@ Agentic AI mini projects and demos
 
 ### **Framework Name**: **CrewAI**
 
-| Use Case              | Description                                                                  | GitHub                                                                                                                                               |
-|:----------------------|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Debate                | debate app.                                                                  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/crew_debate)     |
-| Financial Researcher  | Financial research based on company name which is provided by the user       | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/financial_researcher) |
-| Stock Picker          | Stock picker according to current trends and news.                           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/stock_picker)    |
-| AI Software Developer | Python Code development using Agentic AI (Run on a Docker for safety)        | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/code_developer)  |
+| Use Case              | Description                                                            | GitHub                                                                                                                                                    |
+|:----------------------|:-----------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Debate                | debate app.                                                            | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/crew_debate)          |
+| Financial Researcher  | Financial research based on company name which is provided by the user | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/financial_researcher) |
+| Stock Picker          | Stock picker according to current trends and news.                     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/stock_picker)         |
+| AI Software Developer | Python Code development using Agentic AI (Run on a Docker for safety)  | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/code_developer)       |
+| Engineering Team      | Engineering Team that is built from AI agents which create E2E app     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/engineering_team)     |
 ---
 
 ### **Framework Name**: **Langgraph**
