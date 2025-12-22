@@ -1,0 +1,9 @@
+requests
+crewai-tools
+crewai
+openai-agents
+IPython
+pydantic 
+python-dotenv 
+sendgrid
+gradio
