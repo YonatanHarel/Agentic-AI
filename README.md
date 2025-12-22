@@ -13,7 +13,7 @@ Agentic AI mini projects and demos
 
 ---
 
-### **Framework Name**: **CrewAI**
+### **CrewAI**
 
 | Use Case              | Description                                                            | GitHub                                                                                                                                                    |
 |:----------------------|:-----------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Agentic AI mini projects and demos
 | Engineering Team      | Engineering Team that is built from AI agents which create E2E app     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YonatanHarel/Agentic-AI/tree/main/CrewAI/engineering_team)     |
 ---
 
-### **Framework Name**: **Langgraph**
+### **LangGraph**
 
 | Use Case| Description  | Link                                                                                               |
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------|
